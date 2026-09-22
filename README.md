@@ -1,21 +1,24 @@
 # Siam Ahmed — Portfolio
 
-A workspace for organizing my project showcases and documentation.
+Selected websites and projects built by Siam Ahmed.
 
-## Status
+## Featured project
 
-Starter repository. Project showcases will be added as they are ready.
+### দৈনিক দেশের কথা | Daynik Desher Kotha
 
-## Adding a project
+A Bangla news website that organizes news across national, international, sports, entertainment, and other sections.
 
-For each project, include:
+**My role:** Website development — built by Siam Ahmed.
 
-- **Overview:** What it does and the problem it addresses.
-- **My contribution:** What I built or worked on.
-- **Tools:** Languages and technologies actually used.
-- **Links:** Source code and a working demo, if available.
-- **Visuals:** Screenshots and a short walkthrough.
-- **Setup:** Steps to run the project locally.
+**[Visit the live website →](https://www.daynikdesherkotha.com/)**
+
+### Website highlights
+
+- News organized into topic-based sections.
+- Latest headlines and article pages.
+- A search interface for finding news.
+
+This repository presents the project overview and live website link.
 
 ## Profile
 
